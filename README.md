@@ -54,9 +54,12 @@ Once the container is running, you can access the application by navigating to h
 
 to the with HTTP POST method
 
+![db-ai-agents](https://github.com/user-attachments/assets/da9ba8fe-a1b5-46b8-bc40-429605183a58)
+
+
 ## Usage
 
-![Demo](./db-ai-agents.gif)
+
 
 **Input Travel Details**: Enter your desired travel date, time, and any other preferences.
 
