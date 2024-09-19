@@ -56,6 +56,8 @@ to the with HTTP POST method
 
 ## Usage
 
+![Demo](./db-ai-agents.gif)
+
 **Input Travel Details**: Enter your desired travel date, time, and any other preferences.
 
 **Get Recommendations**: The AI agent will suggest the best travel options based on your criteria.
