@@ -1,0 +1,9 @@
+langchain
+langchain-core
+langchain-community
+langgraph
+langchain-openai
+pandas
+python-dotenv
+langserve[all]
+langchain-cli
