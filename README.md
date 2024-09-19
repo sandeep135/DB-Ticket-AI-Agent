@@ -55,7 +55,11 @@ Once the container is running, you can access the application by navigating to h
 
 with HTTP POST method
 
-![db-ai-agents](https://github.com/user-attachments/assets/9a46263e-b033-4933-a319-b0548f5e6e76)
+
+https://github.com/user-attachments/assets/71bc4f98-d937-4268-9700-3a29be7d0d7e
+
+
+
 
 ## Usage
 
