@@ -45,25 +45,23 @@ To run the Deutsche Bahn Ticket Agent locally, you will need to use Docker. Foll
     docker run -d --name app -p 8000:8000 db-ticket-agent
     ```
 
-Once the container is running, you can access the application by navigating to http://localhost:8000/db-agent/invoke in your web browser. Add the body 
+Once the container is running, you can access the application by navigating to http://localhost:8000/db-agent/invoke in your web browser. Add the body header to
 
-````json
+```json
 {
     "input": "Your Question should be here" 
 }
+```
 
-to the with HTTP POST method
+with HTTP POST method
 
-![db-ai-agents](db-ai-agents.gif)
-
+![db-ai-agents](https://github.com/user-attachments/assets/9a46263e-b033-4933-a319-b0548f5e6e76)
 
 ## Usage
 
+1. *Input Travel Details*: Enter your desired travel date, time, and any other preferences.
 
-
-**Input Travel Details**: Enter your desired travel date, time, and any other preferences.
-
-**Get Recommendations**: The AI agent will suggest the best travel options based on your criteria.
+*Get Recommendations*: The AI agent will suggest the best travel options based on your criteria.
     
 **Book Your Trip**: Select your preferred option and proceed with booking.(Upcoming)
 
