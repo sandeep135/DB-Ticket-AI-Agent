@@ -65,15 +65,20 @@ https://github.com/user-attachments/assets/71bc4f98-d937-4268-9700-3a29be7d0d7e
 
 1. *Input Travel Details*: Enter your desired travel date, time, and any other preferences.
 
-*Get Recommendations*: The AI agent will suggest the best travel options based on your criteria.
+2. *Get Recommendations*: The AI agent will suggest the best travel options based on your criteria.
     
-**Book Your Trip**: Select your preferred option and proceed with booking.(Upcoming)
+3. **Book Your Trip**: Select your preferred option and proceed with booking.(Upcoming)
 
 ## Contributing
 
 Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.
 
 
-License
+## License
 
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License - see the LICENSE file for details.
+
+## Medium Article
+
+If you want to learn more about the project. You can view this [article](https://medium.com/@sandeepbhandari135/practical-llm-powered-end-to-end-project-series-part-1-deutsche-bahn-ticket-ai-agent-5a48799de54a) in medium.
+
